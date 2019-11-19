@@ -1,0 +1,325 @@
+body {
+}
+
+.nav-item {
+    padding: 0 10px;
+}
+
+
+.first-card {
+    padding: 70px 0 30px;
+}
+
+.big-heading {
+    font-size: 70px;
+    line-height: 4rem;
+    margin-bottom: 30px;
+}
+
+.heading-paragraph {
+    color: #808080;
+}
+
+.btn-large {
+    margin: 15px 0 60px;
+    width: 10rem;
+    border-radius: 100px;
+}
+
+.money {
+    width: 100%;
+}
+
+@media (max-width: 994px){
+
+    .heading-group {
+        text-align: center
+    }
+    .money {
+        position: static;
+    }
+}
+
+.second-card {
+    background-color: rgb(46, 43, 51);
+    padding: 70px 170px 50px;
+}
+
+.baby {
+    text-align: center;
+    width: 150px;
+    height: 150px;
+    border: solid #fff 6px;
+    border-radius: 100%;
+    margin-bottom: 15px;
+}
+
+.top-profile-info {
+    color: #fff;
+}
+
+.profile-name {
+    color: #fff;
+}
+
+.dotted-line {
+    border: dotted #cedede 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 30px auto;
+}
+
+.third-card {
+    padding-top: 40px;
+}
+
+.car {
+    width: 100%
+}
+
+.overview {
+    margin-bottom: 30px;
+}
+
+.overview-body {
+    padding-bottom: 40px;
+}
+
+.fourth-card {
+    padding: 50px 150px 65px;
+    background-color: rgb(24, 20, 29);
+}
+
+.duration {
+    color: #fff;
+    margin-bottom: 30px;
+}
+
+.duration-body {
+    padding-bottom: 40px;
+    margin-bottom: 20px;
+    max-width: 100%;
+}
+
+.rectangle {
+    background-color: grey;
+    padding: 30px;
+    border-radius: 5px;
+    position: relative;
+    overflow: hidden;
+}
+
+@media (max-width: 1280) {
+    .rectangle {
+        
+    }
+}
+
+.edge-circle {
+    border-radius: 100px;
+    background-color: rgb(201, 195, 211);
+    width: 40px;
+    height: 40px;
+    justify-content: center;
+    text-align: center;
+    padding: 6px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+
+}
+
+.top-profile-heading {
+    color: #fff;
+    font-size: 2rem;
+    padding-bottom: 15px;
+}
+
+.lorem {
+    font-weight: 700;
+    line-height: 1.5rem;
+}
+
+.profile-nm {
+    color: #fff;
+    font-size: 16px;
+    line-height: 1.5rem;
+}
+
+.fifth-card {
+    padding: 50px 0 30px 0;
+    background-image: url(../images/fvd.png);
+}
+
+.carrier {
+    padding: 30px 30px 30px 0;
+    margin-top: 50px;
+}
+
+.details {
+    color: #fff;
+    margin-bottom: 30px;
+}
+
+.btns {
+    width: 90px;
+}
+
+.small-cirles {
+    border-radius: 15%;
+    width: 35px;
+    height: 35px;
+    background-color: grey;
+    padding: 3px;
+}
+
+.day-one {
+    color: #fff;
+}
+
+.aaa {
+    font-weight: 500;
+    color: #fff;   
+}
+
+.sixth-card {
+    padding: 50px;
+}
+
+.pricing {
+    margin-bottom: 30px;
+}
+
+.price-body {
+    padding-bottom: 10px;
+}
+
+.price-striked {
+    text-decoration: line-through;
+    color: grey;
+    padding-bottom: 10px;
+}
+
+.big-price {
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+.register {
+    font-weight: 700;
+}
+
+@media screen and (max-width: 480px){
+    .register-buton {
+        width: 240px;
+    }
+}
+
+.seventh-card {
+    margin-top: 20px;
+    width: 100%;
+}
+
+.seventh-img {
+    background-image: url(../images/oilandgas.jpg);
+    background-repeat: no-repeat;
+    background-position-x: 50%;
+    background-position-y: 20%;
+    background-size: cover;
+}
+
+.seventh-img-two {
+    background-image: url(../images/Telecoms-mast.jpg);
+    background-repeat: no-repeat;
+    background-position-x: 50%;
+    background-position-y: 20%;
+    background-size: cover;
+}
+
+.seventh-box-two {
+    background-color: rgb(39, 33, 46);
+    padding: 50px 50px 50px 80px;
+}
+
+.white-dots {
+    padding-top: 15px;
+    margin-right: -20px;
+}
+
+.xxxx {
+    padding-top: 15px;
+    margin-right: -20px;
+}
+
+.lorem-training {
+    font-weight: 600;
+    font-size: 20px;
+    color: #fff;
+}
+
+.lorem-training-sub {
+    line-height: 1.4rem;
+    color: #fff;
+    margin-left: -30px;
+}
+
+.eight-card {
+    padding: 40px 0 65px 0;
+    background-color: rgb(24, 20, 29);
+}
+
+.instructors {
+    color: #fff;
+    margin-bottom: 50px;
+}
+
+.instructor-images {
+    margin-bottom: 20px;
+    border-radius: 15px;
+}
+
+.ninth-card {
+    padding-top: 40px;
+    padding-bottom: 30px;
+    background-color: rgb(46, 43, 51);
+}
+
+.question {
+    margin-bottom: 30px;
+}
+
+.first-question, .first-answer {
+    margin-left: -30px;
+}
+
+.first-answer {
+    padding-bottom: 20px;
+}
+
+.q-box {
+    border-radius: 15%;
+    width: 35px;
+    height: 35px;
+    padding: 3px;
+    background: rgba(150, 209, 11, 0.137); 
+}
+
+.tenth-card {
+    padding: 65px 0 65px 0;
+    background-color: rgb(24, 20, 29);
+}
+
+.eleventh-card {
+    padding: 40px 0 30px 0;
+    background-color: rgb(46, 43, 51);
+}
+
+.register-buton2 {
+    margin: 10px 0 20px 0;
+}
+
+.jubilee {
+    letter-spacing: 0.4rem;
+}
+
+
